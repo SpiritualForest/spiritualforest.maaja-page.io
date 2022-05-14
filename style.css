@@ -1,0 +1,19 @@
+.about-maaja {
+    border: 1px solid #c71585;
+    padding: 2px;
+    margin: 2px;
+}
+.about-me {
+    border: 1px solid black;
+    padding: 2px;
+    margin: 2px;
+}
+.maaja-span {
+    color: #c71585;
+    font-weight: bold;
+}
+.apology {
+    border: 1px solid black;
+    padding: 2px;
+    margin: 2px;
+}
