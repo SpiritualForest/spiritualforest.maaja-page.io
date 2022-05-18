@@ -1,19 +1,36 @@
+body {
+    margin: 0;
+    background-color: #e0a6d7;
+    color: black;
+}
+
+.navbar {
+    background-color: #c71585;
+    color: white;
+    font-variant: small-caps;
+    font-size: 14px;
+    padding: 1px;
+    margin: 0;
+}
+
+.nav-link { 
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
+
+.nav-list {
+    display: inline;
+}
+
 .about-maaja {
-    border: 1px solid #c71585;
-    padding: 2px;
-    margin: 2px;
+    text-align: center;
 }
-.about-me {
-    border: 1px solid black;
-    padding: 2px;
-    margin: 2px;
+
+.quotes {
+    margin: 10px;
 }
-.maaja-span {
-    color: #c71585;
-    font-weight: bold;
-}
-.apology {
-    border: 1px solid black;
-    padding: 2px;
-    margin: 2px;
+
+.memories {
+    margin: 10px;
 }
